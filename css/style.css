@@ -10,11 +10,11 @@ body {
   font-size: 1rem; }
 
 ::-moz-selection {
-  background: #000;
+  background: #fff;
   color: #fff; }
 
 ::selection {
-  background: #000;
+  background: #fff;
   color: #fff; }
 
 a {
@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5,
   color: #000 !important; }
 
 .bg-black {
-  background: #000 !important; }
+  background: #ffffff !important; }
 
 .color-black-opacity-5 {
   color: rgba(0, 0, 0, 0.5); }
