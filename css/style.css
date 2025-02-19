@@ -1202,7 +1202,7 @@ body:after {
     bottom: 0;
     width: 80px;
     height: 3px;
-    background: #007bff; }
+    background: #000; }
   .border-primary.text-center:after {
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -1239,7 +1239,7 @@ body:after {
 .how-it-work-item .number {
   width: 50px;
   height: 50px;
-  background: #007bff;
+  background: #000;
   color: #fff;
   line-height: 55px;
   font-weight: 300;
@@ -1273,7 +1273,7 @@ body:after {
     .ul-social-circle li span {
       width: 30px;
       height: 30px;
-      background: #777;
+      background: #000;
       font-size: 13px;
       text-align: center;
       line-height: 30px;
@@ -1285,7 +1285,7 @@ body:after {
       -o-transition: .3s all ease;
       transition: .3s all ease; }
     .ul-social-circle li a:hover span {
-      background: #2b2b2b;
+      background: #000;
       color: #fff; }
 
 .custom-pagination a, .custom-pagination span {
@@ -1294,11 +1294,11 @@ body:after {
   line-height: 40px;
   border-radius: 50%;
   display: inline-block;
-  background: #007bff;
+  background: #000;
   color: #fff; }
 
 .custom-pagination span {
-  background: #e6e6e6;
+  background: #000;
   color: #000; }
 
 .custom-pagination .more-page {
@@ -1306,7 +1306,7 @@ body:after {
   letter-spacing: .1em; }
 
 .form-search-wrap {
-  background: #fff;
+  background: #000;
   border-radius: 30px; }
   .form-search-wrap .form-control {
     border: none; }
@@ -1322,12 +1322,12 @@ body:after {
         display: block; } }
 
 .popular-category {
-  background: #fff;
+  background: #000;
   display: block;
   text-align: center;
   padding: 30px 10px;
   border-radius: 7px;
-  background: #f8f9fa;
+  background: #000;
   position: relative; }
   .popular-category .icon {
     display: block;
@@ -1346,14 +1346,14 @@ body:after {
     padding: 2px 20px;
     border-radius: 30px;
     display: inline-block;
-    background: #e9ecef;
+    background: #000;
     color: #000;
     font-size: 14px;
     -webkit-transition: .1s all ease;
     -o-transition: .1s all ease;
     transition: .1s all ease; }
   .popular-category:hover {
-    background: #007bff;
+    background: #000;
     -webkit-box-shadow: 0 5px 30px -5px rgba(0, 123, 255, 0.5);
     box-shadow: 0 5px 30px -5px rgba(0, 123, 255, 0.5); }
     .popular-category:hover .caption {
@@ -1361,7 +1361,7 @@ body:after {
     .popular-category:hover .icon {
       color: #fff; }
     .popular-category:hover .number {
-      background: #006fe6;
+      background: #000;
       color: #fff; }
 
 @media (max-width: 1199.98px) {
@@ -1404,7 +1404,7 @@ body:after {
       font-size: 12px;
       display: inline-block;
       padding: 5px 30px;
-      background: #007bff;
+      background: #000;
       border-radius: 30px;
       color: #fff;
       letter-spacing: .2em;
@@ -1437,7 +1437,7 @@ body:after {
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
     .listing-item .bookmark:hover {
-      background: #dc3545; }
+      background: #000; }
       .listing-item .bookmark:hover span {
         color: #fff; }
 
@@ -1475,7 +1475,7 @@ body:after {
     display: inline-block;
     width: 50px;
     height: 50px;
-    background: #007bff;
+    background: #000;
     margin-right: 1.5rem;
     border-radius: 50%;
     line-height: 50px;
@@ -1606,7 +1606,7 @@ body:after {
   position: absolute;
   bottom: -10px;
   right: -10px;
-  background: #007bff;
+  background: #000;
   padding: 20px; }
   @media (max-width: 991.98px) {
     .experience {
@@ -1657,7 +1657,7 @@ body:after {
   height: 43px;
   line-height: 1;
   border: 1px solid #fff;
-  background: #fff !important;
+  background: #000 !important;
   color: #000 !important; }
   .footer-subscribe .btn:hover, .footer-subscribe .btn:focus, .footer-subscribe .btn:active {
     border: 1px solid #fff; }
@@ -1666,7 +1666,7 @@ body:after {
   position: relative; }
 
 .cta-big-image .img-box {
-  background: #e81050;
+  background: #000;
   max-width: 550px;
   padding: 3rem;
   position: absolute;
@@ -1693,7 +1693,7 @@ body:after {
     font-weight: 300;
     margin-bottom: 1.5rem; }
   .cta-big-image .img-box .btn {
-    background: #505288;
+    background: #000;
     border-color: #505288;
     color: #fff; }
   .cta-big-image .img-box *:last-child {
@@ -1718,7 +1718,7 @@ body:after {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  background: #007bff; }
+  background: #000; }
   .team-member .social li {
     list-style: none; }
     .team-member .social li a {
@@ -1754,7 +1754,7 @@ body:after {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   display: inline-block;
-  background: #007bff; }
+  background: #000; }
   @media (max-width: 991.98px) {
     .custom-direction {
       bottom: -25px;
@@ -1832,12 +1832,12 @@ body:after {
   color: #343a40; }
   .filters .btn:hover {
     border-color: transparent;
-    background: #007bff;
+    background: #000;
     color: #fff; }
   .filters .btn.active {
-    background: #007bff !important;
+    background: #000 !important;
     color: #fff;
-    border-color: #007bff !important; }
+    border-color: #000 !important; }
 
 .pricing {
   background: #fff;
@@ -1846,7 +1846,7 @@ body:after {
     color: #cccccc; }
     .pricing .price > span > span {
       font-size: 3rem;
-      color: #007bff; }
+      color: #000; }
   .pricing ul li {
     margin-bottom: 20px; }
 
@@ -1955,7 +1955,7 @@ body:after {
   font-size: 15px;
   width: 100%;
   float: left;
-  background: #fff; }
+  background: #000; }
   .sidebar-box *:last-child {
     margin-bottom: 0; }
   .sidebar-box h3 {
@@ -2019,13 +2019,13 @@ body:after {
         color: #ccc; }
       .comment-list li .comment-body .reply {
         padding: 5px 10px;
-        background: #e6e6e6;
+        background: #000;
         color: #000;
         text-transform: uppercase;
         font-size: 14px; }
         .comment-list li .comment-body .reply:hover {
           color: #000;
-          background: #e3e3e3; }
+          background: #000; }
 
 .search-form {
   background: #f7f7f7;
@@ -2065,7 +2065,7 @@ figure figcaption {
   height: 100%;
   position: fixed;
   z-index: 7100;
-  background: #fff;
+  background: #000;
   top: 0;
   left: 0;
   right: 0;
