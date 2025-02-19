@@ -1590,9 +1590,10 @@ body:after {
   text-transform: uppercase; }
 
 .section-title {
-  color: #007bff;
+  color: #07512C;
   font-size: 40px;
-  font-weight: 900; }
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: 500; }
   @media (max-width: 991.98px) {
     .section-title {
       font-size: 30px; } }
